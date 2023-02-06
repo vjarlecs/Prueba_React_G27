@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prueba_React_G27/static/css/main.44f8b8b5.css",
+    "main.js": "/Prueba_React_G27/static/js/main.8ac37222.js",
+    "index.html": "/Prueba_React_G27/index.html",
+    "main.44f8b8b5.css.map": "/Prueba_React_G27/static/css/main.44f8b8b5.css.map",
+    "main.8ac37222.js.map": "/Prueba_React_G27/static/js/main.8ac37222.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.8ac37222.js"
+  ]
+}
